@@ -1,4 +1,4 @@
-# EmComm-Tools Media
+# Liaison OS Media
 
 Screenshots and media assets for [Liaison OS Debian Edition](https://liaisonos.com).
 
